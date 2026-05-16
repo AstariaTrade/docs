@@ -1,10 +1,10 @@
 ---
 title: About Astaria
 ---
-
+<!-- 
 <img src="/images/overview-about.jpg" alt="Astaria Overview" width="1280" height="552" />
 
-## What is Astaria?
+## What is Astaria? -->
 
 There is a new class of event-native traders. This generation lives in a world where politics, sports, macro outcomes, and cultural moments are increasingly traded as markets. Every belief can become a price, and every probability can become an instrument.
 
